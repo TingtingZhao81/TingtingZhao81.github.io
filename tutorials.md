@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 'Hi, I'm Tingting Zhao'
+title: "Hi, I'm Tingting Zhao"
 subtitle: Ph.D. Candidate / Bioinformatics / Data Scientist / Analytical Chemistry / Mass Spectrometry / Metabolomics 
 css: "/assets/css/index.css"
 share-img: /assets/img/self.jpg
 share-title: "Tingting Zhao - Data Scientist"
-share-description: " Data Scientist with a MSc in Analytical Chemistry from UBC and a bachelor degree from Fudan University"
+share-description: "Data Scientist with a MSc in Analytical Chemistry from UBC and a bachelor degree from Fudan University"
 support_promo_box: true
 cover-img:
   - "/assets/img/big-imgs/2022_June_ASMS.jpg" : "ASMS, Minneapolis, USA (2022)"
@@ -13,7 +13,6 @@ cover-img:
   - "/assets/img/big-imgs/2023_June_CanMetCon.jpg" : "Canadian Metabolomics Conference, Niagara-On-the-Lake, Canada (2023)"
   - "/assets/img/big-imgs/2023_August_GRC.jpg" : "GRC, Boston, USA (2023)"
 ---
-
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
@@ -121,4 +120,3 @@ cover-img:
   {% endif %}
 </ul>
 {% endif %}
-
