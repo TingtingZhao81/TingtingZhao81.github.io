@@ -6,7 +6,7 @@ css: "/assets/css/index.css"
 share-img: /assets/img/self.jpg
 share-title: "Tingting Zhao - Data Scientist"
 share-description: "Data Scientist with a MSc in Analytical Chemistry from UBC and a bachelor degree from Fudan University"
-support_promo_box: true
+support_promo_box: false
 cover-img:
   - "/assets/img/big-imgs/2022_June_ASMS.jpg" : "ASMS, Minneapolis, USA (2022)"
   - "/assets/img/big-imgs/2022_blueberry.jpg" : "Vancouver, Canada (2022)"
@@ -15,8 +15,6 @@ cover-img:
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter">All posts</a>
-  <a href="/popular" class="list-filter">Most Popular</a>
   <a href="/tutorials" class="list-filter filter-selected">Tutorials</a>
   <a href="/tags" class="list-filter">Index</a>
 </div>
