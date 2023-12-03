@@ -14,7 +14,7 @@ navbar-links:
   Blog: "/"
   # Hire me: "https://attalitech.com/"
   # Projects: "projects"
-  About Me / Contact: "aboutme"
+  About Me / Contact: "aboutme"  # there is a html file called aboutme, when we click this button, transfer to that HTML page
   ❤ Support: "https://github.com/TingtingZhao81"
 
 avatar: "/assets/img/self.jpg"
