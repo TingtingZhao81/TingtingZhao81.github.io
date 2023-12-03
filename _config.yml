@@ -11,9 +11,9 @@ author: Tingting Zhao
 
 
 navbar-links:
-  Blog: "/"
+  Blog: "tutorials" # post some recent news 
   # Hire me: "https://attalitech.com/"
-  # Projects: "projects"
+  Projects: "projects" # there is a md file
   About Me / Contact: "aboutme"  # there is a html file called aboutme, when we click this button, transfer to that HTML page
   ❤ Support: "https://github.com/TingtingZhao81"
 
