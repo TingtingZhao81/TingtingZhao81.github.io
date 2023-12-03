@@ -15,7 +15,7 @@ cover-img:
 ---
 
 <div class="list-filters">
-  <a href="/tutorials" class="list-filter filter-selected">Tutorials</a>
+  <a href="/tutorials" class="list-filter filter-selected">Features</a>
   <a href="/tags" class="list-filter">Index</a>
 </div>
 
