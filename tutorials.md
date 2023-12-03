@@ -14,7 +14,6 @@ cover-img:
   - "/assets/img/big-imgs/2023_August_GRC.jpg" : "GRC, Boston, USA (2023)"
 ---
 
----
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
